@@ -132,8 +132,8 @@
 						"selection":
 						[
 							[
-								271,
-								271
+								27,
+								27
 							]
 						],
 						"settings":
@@ -165,8 +165,8 @@
 						"selection":
 						[
 							[
-								4969,
-								4969
+								6207,
+								6207
 							]
 						],
 						"settings":
@@ -192,8 +192,8 @@
 						"selection":
 						[
 							[
-								6555,
-								6569
+								423,
+								423
 							]
 						],
 						"settings":
@@ -271,7 +271,7 @@
 		"width": 0.0
 	},
 	"show_minimap": true,
-	"show_open_files": false,
+	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 150.0,
