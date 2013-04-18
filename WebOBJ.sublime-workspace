@@ -1,0 +1,279 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"squareVer",
+				"squareVerticesColorBuffer"
+			],
+			[
+				"DEPT",
+				"DEPTH_BUFFER_BIT"
+			],
+			[
+				"vertex",
+				"vertextPositionAttribute"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "WebOBJ.js",
+			"settings":
+			{
+				"buffer_size": 10124,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sl7v6/Desktop/School/S13-CS7610_Graphics/loadobj/loadObj.h",
+			"settings":
+			{
+				"buffer_size": 6533,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sl7v6/Desktop/School/S13-CS7610_Graphics/loadobj/loadObj.cpp",
+			"settings":
+			{
+				"buffer_size": 60015,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/sl7v6/Documents/GitHub/WebOBJ/README.md",
+		"/C/Users/sl7v6/Documents/GitHub/InfectWebGL/js/infect/loadObjs/loadObj.js",
+		"/C/Users/sl7v6/Documents/GitHub/InfectWebGL/js/infect/loadObj.js",
+		"/C/Users/sl7v6/Documents/GitHub/InfectWebGL/js/infect/square.js",
+		"/C/Users/sl7v6/Documents/GitHub/InfectWebGL/js/sylvester.src.js",
+		"/C/Users/sl7v6/Documents/GitHub/InfectWebGL/js/sylvester.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\t",
+			"\" :",
+			"vertexPositionAttribute",
+			"vertext",
+			"Attribute",
+			"vertexPositionAttribute",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"    ",
+			" ="
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "WebOBJ.js",
+					"settings":
+					{
+						"buffer_size": 10124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								271,
+								271
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/C/Users/sl7v6/Desktop/School/S13-CS7610_Graphics/loadobj/loadObj.h",
+					"settings":
+					{
+						"buffer_size": 6533,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4969,
+								4969
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2115.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/sl7v6/Desktop/School/S13-CS7610_Graphics/loadobj/loadObj.cpp",
+					"settings":
+					{
+						"buffer_size": 60015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6555,
+								6569
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
